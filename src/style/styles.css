@@ -1,0 +1,25 @@
+@keyframes move-right {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(1000px);
+  }
+}
+
+@keyframes move-left {
+  0% {
+    transform: translateX(100px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.move-right {
+  animation: move-right 0.5s ease-in-out forwards;
+}
+
+.move-left {
+  animation: move-left 0.5s ease-in-out forwards;
+}
