@@ -5,12 +5,6 @@ This project is a React TypeScript application for managing products.
 
 Follow these instructions to clone and set up the project on your local machine.
 
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [Git](https://git-scm.com/)
 
 ### Clone the Repository
 
