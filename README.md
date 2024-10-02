@@ -29,3 +29,11 @@ Run the following command to install the necessary dependencies:
 ```sh
 npm install
 ```
+
+### Start Program
+
+Run the following command start
+
+```sh
+npm start
+```
